@@ -1,0 +1,19 @@
+{
+  "name": "devfront",
+  "version": "1.0.0",
+  "description": "frontend",
+  "main": "index.js",
+  "scripts": {
+    "start":"node src/app.js",
+    "bns":"nodemon src/app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript"
+  ],
+  "author": "nagaraju",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
